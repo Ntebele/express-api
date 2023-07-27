@@ -3,5 +3,30 @@ content-type: application/json
 
 {
 	"language" : "english",
+	"greeting" : "helo"
+}
+###
+POST https://greeetihg.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "zulu",
+	"greeting" : "Sawubona"
+}
+###
+POST https://greeetihg.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "xhoza",
 	"greeting" : "Molo"
+}
+###
+
+POST https://greeetihg.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "Sesotho",
+	"greeting" : "Lumela Khosi"
 }
