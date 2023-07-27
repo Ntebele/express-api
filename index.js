@@ -11,9 +11,6 @@ app.use(express.static('public'));
 
 const greetings = {
     english : 'Hello',
-    sesotho : 'Dumela',
-    zulu: 'Sawubona',
-    xhosa: 'Molo'
 }
 
 
